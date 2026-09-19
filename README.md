@@ -26,6 +26,10 @@ The goal is to transform raw business data into meaningful insights through data
 - Customer segment analysis
 - Profit margin analysis
 
+## 📸 Dashboard Preview
+![Superstore Dashboard](images/dashboard-preview.png)
+
+
 ## 📈 Dashboard Features
 
 - Total Sales KPI
